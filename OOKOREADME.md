@@ -1,6 +1,6 @@
 # Data-analysispop
 
-[14:52, 1/28/2021] Mwenda KNBS: rm(list = ls())
+[14:52, 1/28/2021] OOKO SILAS : rm(list = ls())
 library(readstata13)
 library(dplyr)
 library(tidyr)
